@@ -1,0 +1,3 @@
+[submodule "KeepassReader"]
+	path = KeepassReader
+	url = https://github.com/birkoss/KeepassReader.git
