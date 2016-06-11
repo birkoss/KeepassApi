@@ -6,3 +6,5 @@ env/
 Config/local_settings.py
 
 keepass.sock
+
+*.swp
